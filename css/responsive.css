@@ -153,10 +153,10 @@ px      68    160    252    */
   nav .block {
     padding: 0px;
     margin-bottom: 0px;
-    background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
-    background: -o-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
-    background: -moz-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
-    background: linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
+    background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.6), #fff8dc);
+    background: -o-linear-gradient(right, rgba(255, 255, 255, 0.6), #fff8dc);
+    background: -moz-linear-gradient(right, rgba(255, 255, 255, 0.6), #fff8dc);
+    background: linear-gradient(right, rgba(255, 255, 255, 0.6), #fff8dc);
   }
   nav .block .navbar-brand img {
     padding-left: 10px;
@@ -198,7 +198,7 @@ px      68    160    252    */
   }
   #slider .block .owl-carousel div img {
     width: 100%;
-    height: 220px;
+    height: 370px;
     border-radius: 5px;
     padding: 15px;
   }
